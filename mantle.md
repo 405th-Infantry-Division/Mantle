@@ -408,5 +408,7 @@ The DJO will submit the proposal to the MRC which will review and potentially re
 
 The MRC, at its discretion, may reject proposals deemed inappropriate or contradictory to the spirit of the organization.
 
+Minor revisions to the Mantle—limited to corrections to spelling, typographical errors, or updates to company names—that do not alter the intent or meaning of the text may be implemented by Division without requiring review by the Mantle Review Committee (MRC). Within 30 days of such a revision, the MRC retains the authority to subject the change to the full review process if it determines the modification to be substantial.
+
 # Acknowledgements
 The 405th Mantle was created with a great deal of help from those who have come before us. We leaned very heavily on the Codex of the [Mandalorian Mercs](http://mercs.firespray.net/), the Charter of the [501st](http://www.501st.com/) Legion and the Charter of the [Rebel Legion](http://www.rebellegion.com/). We also received additional consultation from Tom Hutchens and Angela Mash.
