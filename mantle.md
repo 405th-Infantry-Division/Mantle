@@ -1,3 +1,18 @@
+# Table of Contents
+- [Introduction](#introduction)
+- [Our Values](#our-values)
+- [Our Mission](#our-mission)
+- [Article I. Membership](#article-i-membership)
+- [Article II. Organizational Units](#article-ii-organizational-units)
+- [Article III. Offices](#article-iii-offices)
+- [Article IV. Elections](#article-iv-elections)
+- [Article V. Finances](#article-v-finances)
+- [Article VI. Identity and Merchandise](#article-vi-identity-and-merchandise)
+- [Article VII. Disciplinary Action](#article-vii-disciplinary-action)
+- [Article VIII. Legal](#article-viii-legal)
+- [Article IX. Amendments](#article-ix-amendments)
+- [Acknowledgements](#acknowledgements)
+
 # Introduction
 The 405th Infantry Division (hereafter referred to as “the 405th,” “organization” or possessive pronouns) is the world’s premiere Halo® based costuming organization. Our members enjoy, express, and share their interest in costuming with others in the fan community by creating and wearing costumes and props that represent characters from the Halo® universe, which includes but is not limited to Halo-based video games, books, comics, and television shows. Our organization was founded in 2005 as an online message board to help fans create the complex costumes and props seen in the Halo® universe and in 2014 expanded its scope to become a costuming fan club.
 
