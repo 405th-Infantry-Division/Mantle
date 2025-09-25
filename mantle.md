@@ -227,7 +227,6 @@ The Division Staff is the chief executive body of our organization, and consists
 + Division Staff seats are perpetual seats until the member retires their seat or is removed from the Division Staff by the DCO. The DCO may select an interim replacement for the vacant seat until such time as a permanent officer is appointed.
 + All Division Staff vacancies require an announcement on the 405th forum, from the DMO to all members in good standing to submit applications with the relevant requested information for the vacant seat. The application submission period will last no more than 30 days. Upon completion of the submission period the DMO will create a thread in the Division Staff forum, and place all applications into the post for review/discussion by the Division Staff members. The review/discussion period will last no more than 2 weeks (14 days) from closing of the submission period.
 + The DCO will appoint a replacement.
-+ Upon appointment to the Division Staff, members in unit command staff must relinquish that position to assume the Division Staff role. If relinquished position is a unit Commanding Officer, the DMO must initiate elections for new unit Commanding Officer.
 
 The Division Staff consists of the following officers:
 
@@ -293,6 +292,11 @@ The Division Staff consists of the following officers:
 
 ## Division
 + All Division Staff Offices are appointed by the DCO.
+
+**Limitations**
++ An individual may not hold more than 2 levels of Command staff leadership positions (e.g. Battalion and Regiment or Battalion and Division, but not Battalion, Regiment, and Division)
++ A member may only serve as Commanding Officer at one level
++ DCO and DXO may not hold another command office
 
 ### DCO
 + DCO serves life-time terms until retirement from, or forced removal from office.
