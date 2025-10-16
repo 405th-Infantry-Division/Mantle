@@ -38,22 +38,37 @@ We promote the development of artistic skill and the honing of artistic talent t
 We are an inclusive organization with 2 primary types of members. The type of membership a person maintains will determine the access they have to certain sections of the site as well as the ability to represent the club in certain ways. At its most basic form, these members are divided between community members with costumes and community members without costumes.
 
 ## Non-Costuming Members
+
 **Type A - Recruit Membership (New Member):** is limited membership open to persons 13 years or older with a registered personal account on the 405th official website. These members have maintained a personal account on the 405th official website for less than 90 days AND made less than 50 posts on the 405th official website.
-**Type B – Enlisted Membership (Full Member):** is limited membership open to persons 13 years or older with a registered personal account on the 405th official website. These members have made 50 posts+ and have maintained a personal account for 90+ days on the 405th official website.
-Recruits and Enlisted Members are defined as a member in good standing whose presence is limited, primarily, to the 405th website.
 
-A Recruit/Enlisted Member is eligible to:
+A Recruit Member is eligible to:
 + Register and participate on the 405th website/forum.
-+ Attend official/unofficial events as a representative of the 405th in a non-costume (supporting/handler) capacity under the supervision of a Deployed Member (Type D) with the express consent of local, regional, or organizational command.
-+ Buy 405th merchandise.
++ Attend official/unofficial events as a representative of the 405th in a non-costume (supporting/handler) capacity under the supervision of a Deployed Member (Type D) (as well as the supervision of a parent/legal guardian for those under 18) with the express consent of local, regional, or organizational command.
 
-A Recruit/Enlisted Member is not eligible to:
+A Recruit Member is not eligible to:
 + Vote in unit elections.
 + Run for unit office or be appointed to a unit office.
 + Create 405th or Unit merchandise.
 + Buy "Auxiliary Member Only" or "Deployed Member Only" merchandise.
 + Access unit “Deployed Members-only” forums.
-+ Attend official/unofficial events in/out of costume as a representative of the 405th without supervision.
++ Attend official/unofficial events in/out of costume as a representative of the 405th without the supervision of a type D member (and the supervision of a parent/legal guardian for those under 18)
+
+**Type B – Enlisted Membership (Full Member):** is limited membership open to persons 13 years to 17 years with a registered personal account on the 405th official website. These members have made 50 posts+ and have maintained a personal account for 90+ days on the 405th official website.
+
+Recruits and Enlisted Members are defined as a member in good standing whose presence is limited, primarily, to the 405th website.
+
+An Enlisted Member is eligible to:
++ Register and participate on the 405th website/forum.
++ Attend official/unofficial events as a representative of the 405th in a non-costume (supporting/handler) capacity under the supervision of a Deployed Member (Type D) AND the supervision of a parent/legal guardian with the express consent of local, regional, or organizational command.
++ Buy 405th merchandise.
+
+An Enlisted Member is not eligible to:
++ Vote in unit elections.
++ Run for unit office or be appointed to a unit office.
++ Create 405th or Unit merchandise.
++ Buy "Auxiliary Member Only" or "Deployed Member Only" merchandise.
++ Access unit “Deployed Members-only” forums.
++ Attend official/unofficial events in/out of costume as a representative of the 405th without parental/legal guardian supervision AND the supervision of a type D member.
 
 Recruit/Enlisted members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Move Prop Sites Community Guidelines/Terms of Use may be removed from the community. 
 
@@ -84,10 +99,6 @@ Regiments/Battalions may allow Recruit/Enlisted members non-costume participatio
 ## Costuming Members
 **Type D - Deployed Membership:** is limited membership open to persons 18 years or older who own a completed Halo-based costume that meets the requirements of the organization.
 
-**Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
-**Tier 2 – Hero Costumer:** is limited membership open to persons who own a costume that meets the second level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
-**Tier 3 - Legend Costumer:** is limited membership open to persons who own a costume that meets the third level with regard the standards of accuracy, completeness, and quality of construction as required by the 405th.
-
 A Deployed Member is defined as a member in good standing who meets the following requirements:
 + Meets all 405th Deployed Membership Requirements (i.e. ownership of an approved costume, is over 18 years of age, etc).
 + Has submitted and had approved a Deployed Membership application.
@@ -99,7 +110,7 @@ Upon becoming a Deployed Member, applicants agree to:
 + Disciplinary data being held against that personal data.
 + Their personal name being used in the course of business in the 405th Infantry Division.
 
-The 405th being able to share personal data to any justified party within the course of the 405th's business, including convention organizers, 343i, social media and law enforcement.
+The 405th being able to share personal data to any justified party within the course of the 405th's business, including convention organizers, Halo Studios, social media and law enforcement.
 
 *Members who serve in military branches or in professions that may keep them from attending events for a time greater than twelve (12) months are exempt from activity level requirements if their service or profession renders them unable to meet these requirements.
 
@@ -116,6 +127,10 @@ A Deployed Member is eligible to:
 + Have their picture displayed on 405th produced promotional materials/websites/social media
 + Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc).
 + Have access to the Deployed Member forums.
+
+**Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+**Tier 2 – Hero Costumer:** is limited membership open to persons who own a costume that meets the second level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+**Tier 3 - Legend Costumer:** is limited membership open to persons who own a costume that meets the third level with regard the standards of accuracy, completeness, and quality of construction as required by the 405th.
 
 Upon admission, Deployed Members will choose a unique number in the 405th member catalog. The catalog number is unique to the individual member and is non-transferable.
 
@@ -411,6 +426,8 @@ Amendments and alterations to the Mantle may be proposed by official 405th membe
 The DJO will submit the proposal to the MRC which will review and potentially revise the proposal. Upon reaching a satisfactory state of completion of the proposal, signified by passing a majority vote by the Division Staff (Regiment Commanding Officers do not vote), the proposal becomes an Amendment and is effective immediately.
 
 The MRC, at its discretion, may reject proposals deemed inappropriate or contradictory to the spirit of the organization.
+
+Minor revisions to the Mantle—limited to corrections to spelling, typographical errors, or updates to company names—that do not alter the intent or meaning of the text may be implemented by Division without requiring review by the Mantle Review Committee (MRC). Within 30 days of such a revision, the MRC retains the authority to subject the change to the full review process if it determines the modification to be substantial.
 
 # Acknowledgements
 The 405th Mantle was created with a great deal of help from those who have come before us. We leaned very heavily on the Codex of the [Mandalorian Mercs](http://mercs.firespray.net/), the Charter of the [501st](http://www.501st.com/) Legion and the Charter of the [Rebel Legion](http://www.rebellegion.com/). We also received additional consultation from Tom Hutchens and Angela Mash.
