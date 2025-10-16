@@ -99,10 +99,6 @@ Regiments/Battalions may allow Recruit/Enlisted members non-costume participatio
 ## Costuming Members
 **Type D - Deployed Membership:** is limited membership open to persons 18 years or older who own a completed Halo-based costume that meets the requirements of the organization.
 
-**Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
-**Tier 2 – Hero Costumer:** is limited membership open to persons who own a costume that meets the second level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
-**Tier 3 - Legend Costumer:** is limited membership open to persons who own a costume that meets the third level with regard the standards of accuracy, completeness, and quality of construction as required by the 405th.
-
 A Deployed Member is defined as a member in good standing who meets the following requirements:
 + Meets all 405th Deployed Membership Requirements (i.e. ownership of an approved costume, is over 18 years of age, etc).
 + Has submitted and had approved a Deployed Membership application.
@@ -114,7 +110,7 @@ Upon becoming a Deployed Member, applicants agree to:
 + Disciplinary data being held against that personal data.
 + Their personal name being used in the course of business in the 405th Infantry Division.
 
-The 405th being able to share personal data to any justified party within the course of the 405th's business, including convention organizers, 343i, social media and law enforcement.
+The 405th being able to share personal data to any justified party within the course of the 405th's business, including convention organizers, Halo Studios, social media and law enforcement.
 
 *Members who serve in military branches or in professions that may keep them from attending events for a time greater than twelve (12) months are exempt from activity level requirements if their service or profession renders them unable to meet these requirements.
 
@@ -131,6 +127,10 @@ A Deployed Member is eligible to:
 + Have their picture displayed on 405th produced promotional materials/websites/social media
 + Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc).
 + Have access to the Deployed Member forums.
+
+**Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+**Tier 2 – Hero Costumer:** is limited membership open to persons who own a costume that meets the second level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+**Tier 3 - Legend Costumer:** is limited membership open to persons who own a costume that meets the third level with regard the standards of accuracy, completeness, and quality of construction as required by the 405th.
 
 Upon admission, Deployed Members will choose a unique number in the 405th member catalog. The catalog number is unique to the individual member and is non-transferable.
 
