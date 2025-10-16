@@ -129,7 +129,9 @@ A Deployed Member is eligible to:
 + Have access to the Deployed Member forums.
 
 **Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+
 **Tier 2 – Hero Costumer:** is limited membership open to persons who own a costume that meets the second level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
+
 **Tier 3 - Legend Costumer:** is limited membership open to persons who own a costume that meets the third level with regard the standards of accuracy, completeness, and quality of construction as required by the 405th.
 
 Upon admission, Deployed Members will choose a unique number in the 405th member catalog. The catalog number is unique to the individual member and is non-transferable.
