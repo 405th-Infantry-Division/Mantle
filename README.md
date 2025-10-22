@@ -5,4 +5,4 @@ Versioning of [405th Mantle](https://www.405th.com/forums/pages/mantle/)
 - [Mantle Markdown](./mantle.md)
 - [Changelog](./changelog.md)
 
-Last Edit: Never
+Last Edit: 10.22.2025
