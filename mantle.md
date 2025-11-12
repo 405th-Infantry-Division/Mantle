@@ -150,7 +150,7 @@ The 405th is divided into 3 main units: Division, Regiment and Battalion. Most a
 ## Battalion
 Battalions are small regionally based organizational unit, covering “local” geographic areas such as a State in the US, or a Country internationally.
 
-A Battalion consists of a minimum of five (5) Deployed members and is administrated by an elected Battalion Commanding Office (BCO). Battalions are responsible for holding member meetings, providing Deployed Members with events, and carrying out the policy prescribed in the 405th Mantle as well as those passed down by the Division Staff.
+A Battalion consists of a minimum of five (5) Deployed members unless a smaller number is deemed necessary by the RCO and is approved by Division. A Battalion is administrated by an elected Battalion Commanding Office (BCO). Battalions are responsible for holding member meetings, providing members with events, and carrying out the policy prescribed in the 405th Mantle as well as those passed down by the Division Staff.
 
 Member affiliation with a Battalion is normally based upon geographical boundaries and the member's primary residence. A member can request to be placed in another Battalion if they feel closer to that Battalion and it is more feasible to regularly attend events with that Battalion. If approved by the BCO of the member's original Battalion as well as the adopting Battalion's BCO, the member may switch Battalions.
 
