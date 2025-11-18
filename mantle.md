@@ -115,16 +115,12 @@ The 405th being able to share personal data to any justified party within the co
 These Minimum Activity Level Requirements should be administered as justly and with as much common sense as possible.
 A member may retain active status, even if they do not meet all of the requirements listed above at the discretion of their unit Commanding Officer.
 
-A Deployed Member is eligible to:
+In addition to Type C eligibility, a Deployed Member is eligible to:
 + Vote in polls of the Deployed Membership.
-+ Vote in local elections.
 + Run for and/or hold elected or appointed offices in the 405th.
 + Coordinate/host official 405th events as designated or allowed by their unit leader.
 + Create “Deployed Member-only” merchandise. (creation must be approved by the DIO)
-+ Buy 405th merchandise.
-+ Have their picture displayed on 405th produced promotional materials/websites/social media
-+ Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc).
-+ Have access to the Deployed Member forums.
++ Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc) without requiring staff supervision.
 
 **Tier 1 - Apprentice Costumer:** is limited membership open to persons who own a costume that meets the first level with regard to the standards of accuracy, completeness, and quality of construction as required by the 405th.
 
