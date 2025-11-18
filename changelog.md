@@ -4,7 +4,8 @@
 
 - Removed Non-Costuming and Costuming Headers
 - Added clarification that Type C members are eligible to apply to become Type D members
-- Clarified membership revocation and notice
+- Resolved conflicting term definitions for Regiment and Battalion staff
+- Clarified Division staff undergo annual review
 
 ## 2025-11-10
 
