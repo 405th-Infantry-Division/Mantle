@@ -117,7 +117,7 @@ A member may retain active status, even if they do not meet all of the requireme
 
 In addition to Type C eligibility, a Deployed Member is eligible to:
 + Vote in polls of the Deployed Membership.
-+ Run for and/or hold elected or appointed offices in the 405th.
++ Run for and/or hold elected offices in the 405th.
 + Coordinate/host official 405th events as designated or allowed by their unit leader.
 + Create “Deployed Member-only” merchandise. (creation must be approved by the DIO)
 + Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc) without requiring staff supervision.
