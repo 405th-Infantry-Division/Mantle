@@ -122,7 +122,7 @@ In addition to Type C eligibility, a Deployed Member is eligible to:
 + Create “Deployed Member-only” merchandise. (creation must be approved by the DIO)
 + Participate in official 405th events (i.e. charity benefits, celebrity appearances, guest escorts, etc) without requiring staff supervision.
 
-Upon deployment a Tiered grade is awarded for the deployment submission at the discretion of the DMO
+Upon deployment a Tiered grade is awarded for the deployment submission at the discretion of the DMO.
 
 Upon admission, Deployed Members will choose a unique number in the 405th member catalog. The catalog number is unique to the individual member and is non-transferable.
 
