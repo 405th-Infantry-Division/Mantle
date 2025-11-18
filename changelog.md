@@ -1,4 +1,8 @@
 # Changelog
+## 2025-11-10
+
+- Provide an exception for Battalion formation without 5 Deployed members when deemed necessary
+
 ## 2025-09-25 
 
 - Removed the requirement for Division staff members to relinquish any other command staff roles upon appointment
