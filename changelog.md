@@ -1,4 +1,11 @@
 # Changelog
+
+## 2025-11-17
+
+- Removed Non-Costuming and Costuming Headers
+- Added clarification that Type C members are eligible to apply to become Type D members
+- Clarified membership revocation and notice
+
 ## 2025-11-10
 
 - Provide an exception for Battalion formation without 5 Deployed members when deemed necessary

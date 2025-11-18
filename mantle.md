@@ -35,9 +35,7 @@ We hold three core values:
 We promote the development of artistic skill and the honing of artistic talent through the creation of Halo® costumes and props. We accomplish this by providing makers and cosplayers a global community in which they can share their knowledge and experience, which in turn nurtures and sustains their passion for the Halo® universe.
 
 # Article I. Membership
-We are an inclusive organization with 2 primary types of members. The type of membership a person maintains will determine the access they have to certain sections of the site as well as the ability to represent the club in certain ways. At its most basic form, these members are divided between community members with costumes and community members without costumes.
-
-## Non-Costuming Members
+We are an inclusive organization with many types of members. The type of membership a person maintains will determine: the member's eligibility to join their local regiment or battalion which in turn grants access to exclusive channels, the member's eligibility to participate in the 405th deployment program, and the member's ability to represent the club in certain ways.
 
 **Type A - Recruit Membership (New Member):** is limited membership open to persons 13 years or older with a registered personal account on the 405th official website. These members have maintained a personal account on the 405th official website for less than 90 days AND made less than 50 posts on the 405th official website.
 
@@ -89,6 +87,7 @@ In addition to Type B eligibility, an Auxiliary Member is eligible to:
 + Attend official/unofficial events as a representative of the 405th in a non-costume (supporting/handler) capacity with the express consent of local, regional, or organizational command.
 + Buy "Auxiliary Member Only" merchandise.
 + Create 405th or Unit merchandise. (creation must be approved by the DIO)
++ Be eligible to apply for Deployment (Type-D Membership)
 
 Auxiliary members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Move Prop Sites Community Guidelines/Terms of Use may be removed from the community.
 
@@ -96,7 +95,6 @@ Auxiliary members who participate in events with a Deployed Member that represen
 
 Regiments/Battalions may allow Recruit/Enlisted members non-costume participation at official event if they so choose. Should a Regiment/Battalion choose to allow a Auxiliary member non-costume participation at official events, 405th/Regiment/Battalion take responsibility for the actions of those Auxiliary members while representing the 405th.
 
-## Costuming Members
 **Type D - Deployed Membership:** is limited membership open to persons 18 years or older who own a completed Halo-based costume that meets the requirements of the organization.
 
 A Deployed Member is defined as a member in good standing who meets the following requirements:
@@ -142,7 +140,7 @@ Members are expected to comply with their respective applicable local, regional,
 
 The right to grant, deny, revoke, or suspend membership is reserved by and under the sole authority of the Division Commanding Officer and may not be superseded by any rules of any 405th subdivision or unit.
 
-We reserve the right to deny or revoke membership at any time, based on any past criminal history as outlined in Operational Procedures and in accordance with the laws of the applicable country or region within. Notice of such denial or revocation will be filed with the 405th Command Staff.
+We reserve the right to deny or revoke membership at any time, based on any criminal action or history as outlined in Operational Procedures and in accordance with the laws of the applicable country or region within. Notice of such denial or revocation will be filed with the 405th Command Staff. Notice of Revocation will be sent to MPS Staff and Ownership pursuant to liability.
 
 # Article II. Organizational Units
 The 405th is divided into 3 main units: Division, Regiment and Battalion. Most activity will be conducted at the local and regional level with the Division Staff serving as an administrate body.
