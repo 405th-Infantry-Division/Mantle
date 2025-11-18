@@ -317,7 +317,7 @@ The Division Staff consists of the following officers:
 + DCO serves life-time terms until retirement from, or forced removal from office.
 + At retirement or removal, the office of DCO is elected by popular vote of the active members of the 405th, and confirmed by vote of the Division Staff.
 
-All offices, excluding DCO, serve one-year terms which end with the calendar year. Annual review/elections are mandatory, unless an incumbent officer stands unchallenged, in which case the election is waived.
+All Regiment and Battalion offices serve two year terms, which end with the calendar year. RCO and BCO elections are mandatory upon the end of the term, unless an incumbent officer stands unchallenged, in which case the election is waived. Division staff members, excluding DCO, will undergo an annual review by the DCO.
 
 In the event an officer is unable to perform the duties of their office, an immediate emergency replacement must be made (by election or appointment, depending on the office. If a Commanding Officer is unable to serve, the Executive Officer will assume nominal leadership until a replacement is made. If both the Commanding Officer and Executive Officer are unable to serve, the Membership Officer will assume nominal leadership until a replacement is made. Inability to serve may be determined by either voluntary resignation of the office, or a period of 30 days of unresponsiveness in office after all reasonable means of communication are exhausted.
 
