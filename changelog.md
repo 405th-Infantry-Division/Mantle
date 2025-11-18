@@ -6,6 +6,7 @@
 - Added clarification that Type C members are eligible to apply to become Type D members
 - Resolved conflicting term definitions for Regiment and Battalion staff
 - Clarified Division staff undergo annual review
+- Updated Deployed Member eligibility to be items that are not already covered by lower membership types
 
 ## 2025-11-10
 
