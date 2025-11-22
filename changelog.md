@@ -8,6 +8,7 @@
 - Clarified Division staff undergo annual review
 - Updated Deployed Member eligibility to be items that are not already covered by lower membership types
 - Removed the tier levels and replaced with a description that a Tier will be awarded
+- Typo fixes
 
 ## 2025-11-10
 

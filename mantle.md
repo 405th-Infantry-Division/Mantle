@@ -18,7 +18,7 @@ The 405th Infantry Division (hereafter referred to as “the 405th,” “organi
 
 With respect to Microsoft's "Game Content Usage Rules," our members hold no rights to the characters they portray and recognize it is a privilege to wear these costumes. We are not endorsed by Microsoft and do not reflect the views or opinions of Microsoft or anyone officially involved in producing or managing Halo®. As such, we, as an organization, do not currently contribute to the official narrative of the Halo® universe.
 
-We also acknowledge that while in costume we are unofficial representatives the Halo® universe and as such accept the responsibility to behave professionally and tastefully while in public.
+We also acknowledge that while in costume we are unofficial representatives of the Halo® universe and as such accept the responsibility to behave professionally and tastefully while in public.
 
 The 405th Infantry Division is wholly owned by Movie Prop Sites, LLC. It is operated by Movie Prop Sites, LLC as well as volunteer members from the community.
 
@@ -68,13 +68,13 @@ An Enlisted Member is not eligible to:
 + Access unit “Deployed Members-only” forums.
 + Attend official/unofficial events in/out of costume as a representative of the 405th without parental/legal guardian supervision AND the supervision of a type D member.
 
-Recruit/Enlisted members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Move Prop Sites Community Guidelines/Terms of Use may be removed from the community. 
+Recruit/Enlisted members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Movie Prop Sites Community Guidelines/Terms of Use may be removed from the community. 
 
 Recruit/Enlisted members who participate in events with a Deployed Member that represents the 405th in an official capacity, or who participate in conversations within a Regiment/Battalion forum may be subject to disciplinary actions by the 405th/Regiment/Battalion for infractions of the 405th Mantle or forum Code of Conduct.
 
 Regiments/Battalions may allow Recruit/Enlisted members non-costume participation at official events under the supervision of a Deployed Member (Type D) if they so choose. Should a Regiment/Battalion choose to allow a Recruit/Enlisted member non-costume participation at official events, 405th/Regiment/Battalion take responsibility for the actions of those Recruit/Enlisted members while representing the 405th.
 
-**Type C – Auxiliary Membership:** is limited membership open to persons 18 years or older with a registered personal account on the 405th official website. These members have already fulfilled the requirements needed to maintain a Type B Membership..
+**Type C – Auxiliary Membership:** is limited membership open to persons 18 years or older with a registered personal account on the 405th official website. These members have already fulfilled the requirements needed to maintain a Type B Membership.
 
 Auxiliary Members are defined as a member in good standing who meets the following requirements:
 + Meets all 405th Auxiliary Membership Requirements (i.e. is over 18 years of age, etc).
@@ -89,7 +89,7 @@ In addition to Type B eligibility, an Auxiliary Member is eligible to:
 + Create 405th or Unit merchandise. (creation must be approved by the DIO)
 + Be eligible to apply for Deployment (Type-D Membership)
 
-Auxiliary members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Move Prop Sites Community Guidelines/Terms of Use may be removed from the community.
+Auxiliary members do not receive the right to official investigation, special tribunal, or alternate dispute resolution. Recruit/Enlisted Members found in violation of the 405th Mantle and/or the Movie Prop Sites Community Guidelines/Terms of Use may be removed from the community.
 
 Auxiliary members who participate in events with a Deployed Member that represents the 405th in an official capacity, or who participate in conversations within a Regiment/Battalion forum may be subject to disciplinary actions by the 405th/Regiment/Battalion for infractions of the 405th Mantle or forum Code of Conduct.
 
@@ -135,12 +135,12 @@ The right to grant, deny, revoke, or suspend membership is reserved by and under
 We reserve the right to deny or revoke membership at any time, based on any criminal action or history as outlined in Operational Procedures and in accordance with the laws of the applicable country or region within. Notice of such denial or revocation will be filed with the 405th Command Staff. Notice of Revocation will be sent to MPS Staff and Ownership pursuant to liability.
 
 # Article II. Organizational Units
-The 405th is divided into 3 main units: Division, Regiment and Battalion. Most activity will be conducted at the local and regional level with the Division Staff serving as an administrate body.
+The 405th is divided into 3 main units: Division, Regiment and Battalion. Most activity will be conducted at the local and regional level with the Division Staff serving as an administrative body.
 
 ## Battalion
-Battalions are small regionally based organizational unit, covering “local” geographic areas such as a State in the US, or a Country internationally.
+Battalions are small regionally based organizational units, covering “local” geographic areas such as a State in the US, or a Country internationally.
 
-A Battalion consists of a minimum of five (5) Deployed members unless a smaller number is deemed necessary by the RCO and is approved by Division. A Battalion is administered by an elected Battalion Commanding Office (BCO). Battalions are responsible for holding member meetings, providing members with events, and carrying out the policy prescribed in the 405th Mantle as well as those passed down by the Division Staff.
+A Battalion consists of a minimum of five (5) Deployed members unless a smaller number is deemed necessary by the RCO and is approved by Division. A Battalion is administered by an elected Battalion Commanding Officer (BCO). Battalions are responsible for holding member meetings, providing members with events, and carrying out the policy prescribed in the 405th Mantle as well as those passed down by the Division Staff.
 
 Member affiliation with a Battalion is normally based upon geographical boundaries and the member's primary residence. A member can request to be placed in another Battalion if they feel closer to that Battalion and it is more feasible to regularly attend events with that Battalion. If approved by the BCO of the member's original Battalion as well as the adopting Battalion's BCO, the member may switch Battalions.
 
@@ -283,7 +283,7 @@ The Division Staff consists of the following officers:
 # Article IV. Elections
 ## Battalion and Regiment
 + Battalion Commanding Officer (BCO) and Regiment Commanding Officer (RCO) are elected by popular vote of the active members of their respective unit.
-+ Executive Office and Membership Officer of Battalion and Regiment are appointed by their respective CO.
++ Executive Officer and Membership Officer of Battalion and Regiment are appointed by their respective CO.
 + CO may appoint other administrative positions within their unit as needed.
 + Active Deployed members in good standing are eligible to run for CO.
 + Deployed members are eligible to nominate and vote in elections within their currently assigned unit.
@@ -358,7 +358,7 @@ Our logos can be used by any member for PERSONAL USE with the following limitati
 Additional Limitations and Guidelines:
 + While the 405th Identity is for use by any member for PERSONAL USE, members cannot create ANY merchandise or retail items using the identity. This includes but is not limited to clothing, patches, stickers, coins, etc. This also applies to the Regiment and Battalion levels.
 + Any banners, flyers or promotional items containing the 405th Identity that is being used to promote the 405th MUST be approved by the DIO BEFORE being used.
-+ As noted above, when a member uses the 405th identity, they represent the 405th in an unofficial capacity, as a member of the community. Unless that member are an official representative for the community they should exhibit caution in not misrepresenting themselves as such.
++ As noted above, when a member uses the 405th identity, they represent the 405th in an unofficial capacity, as a member of the community. Unless that member is an official representative for the community they should exhibit caution in not misrepresenting themselves as such.
 
 Merchandise not abiding by these guidelines will be considered unauthorized and its sale shall be forbidden to members of the 405th. Producing or distributing unauthorized merchandise may be subject to disciplinary action by the 405th.
 
@@ -369,7 +369,7 @@ The 405th’s standards of conduct exist to provide a consistent representation 
 
 All Commanding Officers are expected to enforce the rules of the 405th in their respective jurisdictions. Any member behaving in an unacceptable manner or violating 405th rules (in letter or intent) or the tenets thereof is subject to disciplinary action. Disputes within any 405th subdivision are to be managed by the Commanding Officer of the subdivision, unless the Commanding Officer is involved in the dispute or there is any other clear conflict of interest on their part, in which case the dispute must be escalated to the next level.
 
-Complaints should be directed by members to their immediate Commanding Officer. The Commanding Offer is responsible for mediating the dispute. Mediation may take the form of an informal meeting between the parties in which the Commanding Officer presides, up to formal hearings in which the DJO presides. If a dispute appears that it will ultimately require a formal hearing, the DJO must be notified as soon as possible so they can observe the proceedings or be otherwise included in communications related to the dispute prior to the formal meeting.
+Complaints should be directed by members to their immediate Commanding Officer. The Commanding Officer is responsible for mediating the dispute. Mediation may take the form of an informal meeting between the parties in which the Commanding Officer presides, up to formal hearings in which the DJO presides. If a dispute appears that it will ultimately require a formal hearing, the DJO must be notified as soon as possible so they can observe the proceedings or be otherwise included in communications related to the dispute prior to the formal meeting.
 
 In the event a conflict or complaint involves members of different units, the Commanding Officer of the primary complainant serves as the presiding officer and conducts a meeting with the defendant and the Commanding Officer of the defendant's unit. Again, if a formal hearing is required or if one of the parties involved in a dispute is an officer of a unit, the hearing will be overseen by the DJO or a designated representative.
 
@@ -384,7 +384,7 @@ Following the resolution of a dispute or hearing, members have the right to appe
 The remedies and procedures provided in the Mantle and all subsections hereof must be exhausted prior to the filing or commencement of any legal proceeding by any member, former member, Chapter or Related Entity involving the 405th or any officer or employee thereof before a court having competent jurisdiction thereof.
 
 ## Arbitration, Venue and Applicable Law
-The parties expressly agree that all disputes or controversies arising out of the Mantle, their performance, or the alleged breach thereof, if not disposed of by provisions set forth within Tthe Mantle, shall be resolved only by arbitration in accordance with this section. Either party must demand such arbitration only within 6 months after the controversy arises by sending a notice of demand to arbitrate to the American Arbitration Association (the "Association"), with a copy thereof to the other party. The dispute shall then be arbitrated by a single arbitrator pursuant to the Commercial Rules of the Association at the Association office in Delaware. In the disposition of the dispute, the arbitrator shall be governed by the express terms of the Mantle and otherwise by the laws of the State of Delaware which shall govern the interpretation of the Mantle. In all such matters, only the substantive laws of the State of Delaware without regard to the conflicts of laws thereof shall apply in any proceedings involving the 405th. In no event shall the substantive laws of any other jurisdiction have any application in any legal proceeding involving the 405th. The decision of the arbitrator shall be final and conclusive on the parties and shall be a bar to any suit, action or proceeding instituted in any federal, state or local court or before any administrative tribunal. Notwithstanding the foregoing, judgment on any award by the arbitrator may be entered in any court of competent jurisdiction. This arbitration provision shall survive any expiration or termination of the Mantle.
+The parties expressly agree that all disputes or controversies arising out of the Mantle, their performance, or the alleged breach thereof, if not disposed of by provisions set forth within the Mantle, shall be resolved only by arbitration in accordance with this section. Either party must demand such arbitration only within 6 months after the controversy arises by sending a notice of demand to arbitrate to the American Arbitration Association (the "Association"), with a copy thereof to the other party. The dispute shall then be arbitrated by a single arbitrator pursuant to the Commercial Rules of the Association at the Association office in Delaware. In the disposition of the dispute, the arbitrator shall be governed by the express terms of the Mantle and otherwise by the laws of the State of Delaware which shall govern the interpretation of the Mantle. In all such matters, only the substantive laws of the State of Delaware without regard to the conflicts of laws thereof shall apply in any proceedings involving the 405th. In no event shall the substantive laws of any other jurisdiction have any application in any legal proceeding involving the 405th. The decision of the arbitrator shall be final and conclusive on the parties and shall be a bar to any suit, action or proceeding instituted in any federal, state or local court or before any administrative tribunal. Notwithstanding the foregoing, judgment on any award by the arbitrator may be entered in any court of competent jurisdiction. This arbitration provision shall survive any expiration or termination of the Mantle.
 
 ## Failure to Comply
 In the event that legal proceedings are threatened or commenced in violation of or without compliance with this Rule and all subsections hereof, the Division Staff may in its discretion summarily order the member, former member, Chapter, or Related Entity covered under this Rule to dismiss such legal action and comply with this Rule and all subsections hereof.
@@ -411,7 +411,7 @@ As required by the Mantle, the 405th shall indemnify the members of the Division
 1.9. Limitation on Indemnification. Notwithstanding anything contained in this Rule to the contrary, except for proceedings to enforce rights to indemnification (which shall be governed by the applicable provisions of this Rule and generally by the Rules with respect to Disputes), the 405th shall not be obligated to indemnify any director or officer in connection with a proceeding (or part thereof) initiated by such person unless such proceeding (or part thereof) was authorized or consented to by the Division Staff of the 405th. Without limiting the generality of the foregoing, any indemnification under this Rule shall be subordinate to the policies of insurance applicable to the defense of any acts or omissions giving rise to any claim resulting in possible indemnification under this Rule.
 
 # Article IX. Amendments
-A committee, supervised by the DJO, and consisting of the Division Staff and the Regiment Commanding Officers oversee and manage amendments to the Mantle. This committee is called the Mantle Review Committee (MRC).
+A committee, supervised by the DJO, and consisting of the Division Staff and the Regiment Commanding Officers, oversees and manages amendments to the Mantle. This committee is called the Mantle Review Committee (MRC).
 
 Amendments and alterations to the Mantle may be proposed by official 405th members to their Commanding Officer who will in turn pass it up until it reaches the DJO. Proposals may be submitted by 405th members to the MRC at any time during the year. The MRC may also work on proposals at any time throughout the year and have no time constraints upon which a proposal must be addressed.
 
