@@ -1,4 +1,6 @@
 # Changelog
+## 2025-11-24
+ - Testing Branch Protection
 
 ## 2025-11-17
 
