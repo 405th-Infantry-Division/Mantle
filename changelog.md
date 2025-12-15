@@ -1,5 +1,9 @@
 # Changelog
 
+## 2025-12-15
+
+- Added restrictions around the usage of AI for official 405th materials and/or branding
+
 ## 2025-11-17
 
 - Removed Non-Costuming and Costuming Headers
