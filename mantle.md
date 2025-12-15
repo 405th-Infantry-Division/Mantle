@@ -288,13 +288,13 @@ The Division Staff consists of the following officers:
 + Battalion Commanding Officer (BCO) and Regiment Commanding Officer (RCO) are elected by popular vote of the active members of their respective unit.
 + Executive Officer and Membership Officer of Battalion and Regiment are appointed by their respective CO.
 + CO may appoint other administrative positions within their unit as needed.
-+ Active Deployed members in good standing are eligible to run for CO.
-+ Deployed members are eligible to nominate and vote in elections within their currently assigned unit.
++ Active Deployed members in good standing are eligible to run for CO. Exceptions may be granted with Division approval based on regional need or extenuating circumstances.
++ Regiment members are eligible to nominate and vote in elections within their currently assigned unit.
 + Members that are classified as reserve, retired, suspended, or discharged may not vote unless their status has been changed back to active before voting begins. Notice of upcoming elections will be posted on the 405th.com at least one week prior to the beginning of the nomination period.
 + Elections for CO positions are held once every two years.
-+ Elections will begin at 12:01am PST on the 1st Wednesday of January.
++ Elections will begin on the 1st Wednesday of January.
 + Nominations will be open for 4 days beginning on Wednesday and concluding on the Saturday immediately following.
-+ At 12:01am PST on Sunday, a question-and-answer period begins and runs for 4 days, closing on the Wednesday immediately following.
++ On Sunday, a question-and-answer period begins and runs for 4 days, closing on the Wednesday immediately following.
 + Commanding Officers are elected by the popular vote of the members of their unit. Voting will open Thursday following the question-and-answer period and be available for 4 days, ending on the following Sunday.
 + Election results will be announced on Monday.
 + The remainder of the month is reserved for transitioning between administrations. Elected candidates will take office at 12:01am PST on February 1st.
