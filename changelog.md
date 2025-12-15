@@ -3,6 +3,7 @@
 ## 2025-12-15
 
 - Added restrictions around the usage of AI for official 405th materials and/or branding
+- Rename Division Webmaster to Division Technology Officer and clarify role
 
 ## 2025-11-17
 
