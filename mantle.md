@@ -277,8 +277,11 @@ The Division Staff consists of the following officers:
 + Oversees all merchandise operations, including those of local units.
 + Ensures that all branding and merchandise projects adhere to rules and guidelines that govern use of images, pricing, and distribution.
 
-### Division Webmaster (DWM)
+### Division Technology Officer (DTO)
 + Oversees all technical issues relating to the 405th.com website.
++ Manages 405th external community spaces in collaboration with DCO, DXO, and DPR.
++ Maintains tutorials and resource files hosted on the 405th.com website.
++ Executes various technology projects for the community as approved by Division.
 
 # Article IV. Elections
 ## Battalion and Regiment
