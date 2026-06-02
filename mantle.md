@@ -37,6 +37,18 @@ We promote the development of artistic skill and the honing of artistic talent t
 # Article I. Membership
 We are an inclusive organization with many types of members. The type of membership a person maintains will determine: the member's eligibility to join their local regiment or battalion which in turn grants access to exclusive channels, the member's eligibility to participate in the 405th deployment program, and the member's ability to represent the club in certain ways.
 
+**Account Eligibility and Registration Requirements**
+
+To create and maintain a personal account on the 405th official website, all individuals must meet the following eligibility requirements:
++ Individuals must be at least thirteen (13) years of age.
++ Individuals must provide their real, legal first name during account registration.
++ Individuals must provide their real and accurate date of birth during account registration.
++ The use of false names, aliases intended to misrepresent identity, or falsified dates of birth for the purpose of bypassing age restrictions or membership requirements is strictly prohibited.
+
+Account information must remain accurate and up to date. Members are responsible for ensuring that their registered name and date of birth reflect their true legal identity. Requests to correct legitimate errors may be submitted to site administration at their discretion.
+
+Accounts found to be in violation of these requirements, including, but not limited to, falsified age, name, or identity, may be restricted, suspended, or permanently removed in accordance with applicable disciplinary authority and the superseding MPS Community Guidelines. Such actions may also result in the loss of eligibility for advancement, participation, or reinstatement within the organization.
+
 **Type A - Recruit Membership (New Member):** is limited membership open to persons 13 years or older with a registered personal account on the 405th official website. These members have maintained a personal account on the 405th official website for less than 90 days AND made less than 50 posts on the 405th official website.
 
 A Recruit Member is eligible to:
