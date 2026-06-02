@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-06-02
+
+- Update term end for Regiment and Battalion staff to February 1st after elections
+
 ## 2025-12-19
 
 - Set version number to follow publish date
