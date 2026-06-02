@@ -3,6 +3,7 @@
 ## 2026-06-02
 
 - Update term end for Regiment and Battalion staff to February 1st after elections
+- Adds membership and account eligibility requirements
 
 ## 2025-12-19
 
